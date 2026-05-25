@@ -1,4 +1,3 @@
-````markdown
 # Financial Decision Tree Maximum Depth
 
 ## Assignment Overview
