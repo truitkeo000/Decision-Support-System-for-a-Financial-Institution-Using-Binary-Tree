@@ -1,6 +1,5 @@
 # Flowchart
 
-```text
 Start
   |
 Call max_depth(root)
